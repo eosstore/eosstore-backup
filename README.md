@@ -4,7 +4,9 @@ mainnet data backup
 In order to ensure the security of the main network, we made regular backup of the data.We backup data once a day,and include blocks and state.
 
 We can get the data from [EOSSTORE-backup-address](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html)
-OS:Ubuntu16.04
+os:Ubuntu16.04
+
+The snapshot only be used to compile version and Ubuntu
 
 Put the data at your bp's data-dir
 
