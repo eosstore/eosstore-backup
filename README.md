@@ -10,7 +10,7 @@ The snapshot only be used to compile version and Ubuntu
 
 Put the data at your bp's data-dir
 
-1.Get lastly data with 
+1.Get latest data with 
 ```
 wget https://s3-ap-northeast-1.amazonaws.com/eosstorebp/xxx.tar.gz
 ```
